@@ -1,0 +1,14 @@
+{
+  "name": "@tivix/typescript-config",
+  "version": "1.0.0",
+  "description": "Tivix's TypeScript config",
+  "main": "index.json",
+  "author": "tivix",
+  "license": "UNLICENSED",
+  "private": false,
+  "homepage": "https://github.com/tivix/js-standard-typescript-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tivix/js-standard-typescript-config.git",
+  }
+}
