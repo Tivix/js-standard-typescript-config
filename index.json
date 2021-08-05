@@ -3,6 +3,9 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true
+    "strict": true,
+    "strictFunctionTypes": true,
+    "incremental": true,
+    "tsBuildInfoFile": "tsbuildinfo.json"
   }
 }
